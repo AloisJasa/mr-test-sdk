@@ -1,1 +1,1 @@
-# mr-test-sdk
+# read-only mr-test-sdk
